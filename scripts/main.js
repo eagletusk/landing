@@ -8,7 +8,7 @@ function printRepoCount() {
     var responseObj = JSON.parse(this.responseText);
     var count = Object.keys(responseObj).length;
     for (index = 0; index <= count-1; ++index){
-      text = text +  "<li><em> Github Repository name: " + '<a href="' + responseObj[index].html_url + '">'+ responseObj[index].name + "</a>"+ "</em></li>";
+      text = text +  '<li>' + '<em><a href="' + responseObj[index].html_url + '">'+ responseObj[index].name + "</a>"+ "</em> <br><strong>Description: </strong> " +responseObj[index].description + "<br><strong>Technology Used: </strong>"+responseObj[index].language+"<br><br></li>";
     }
     document.getElementById("github").innerHTML = text;
   }
