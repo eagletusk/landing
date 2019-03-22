@@ -31,4 +31,5 @@ div div div div div li:nth-child(6){
   color: back;
   border: 10px double black;
   border-radius: 5px;
+  padding:4px;
 }
