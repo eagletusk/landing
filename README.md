@@ -22,7 +22,7 @@ View index.html in browser.
 
 ## Built With
 
-* [Bootsrtap](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - Bootstrap
+* [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 ## Authors
 
