@@ -26,10 +26,11 @@
   /* /height: auto; */
 }
 
-/* specificity: 0033 */
-div div div div div li:nth-child(6){
-  color: back;
-  border: 10px double black;
-  border-radius: 5px;
-  padding:4px;
-}
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+  div div div div div li:nth-child(6){
+    color: back;
+    border: 10px double black;
+    border-radius: 5px;
+    padding:4px;
+  }
