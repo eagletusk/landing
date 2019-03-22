@@ -1,8 +1,20 @@
-.sandbox2 image{
-  background-color: red;
-  color: red;
-  imagwidth: 20px;
+.sandbox2 img{
+  width: 20%;
+  height: auto;
+  float:left;
+  padding: 2px;
 }
+
+.sandbox2 {
+  margin: 10px;
+  padding: 10px;
+  border: 2px;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 10px;
+}
+
+
 
 h1 {
   color:red;
