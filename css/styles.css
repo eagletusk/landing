@@ -3,6 +3,11 @@
   height: auto;
   float:left;
   padding: 2px;
+  margin: 20px;
+  border:2px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color:black;
 }
 
 .sandbox2 {
