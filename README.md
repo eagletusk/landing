@@ -1,11 +1,12 @@
 # Epicodus 1st Week Programming Portfolio Friday Project
 
-Friday's project showing work with Git, Github, HTML, CSS, and Bootstrap.
+A project showing work with Git, Github, HTML, CSS, and Bootstrap.
 
 ## Getting Started
 
 This is a website project.
-A gh-pages branch is hosted via Github Pages
+
+The current version is hosted via Github Pages : http://eagletusk.github.io/landing
 
 ### Prerequisites
 
@@ -17,7 +18,7 @@ None.
 
 ## Authors
 
-* **Paul Sobczak** - *Initial work* - [EagleTusk(https://github.com/Eagletusk)
+* **Paul Sobczak** - *Initial work* - [EagleTusk](https://github.com/Eagletusk)
 
 ## License
 
