@@ -7,8 +7,8 @@ A project showing work with Git, Github, HTML, CSS, javascript, and Bootstrap.
 This is a website project, since I got done early I worked on getting some simple javascript running on the page.
 
 Javascript elements:
-*github REST JSON api call
-*mapquest map
+- github REST JSON api call
+- mapquest map
 
 The current version is hosted via Github Pages : http://eagletusk.github.io/landing
 
